@@ -16,4 +16,5 @@ _Note: The Tech Stack choice of your System Test is independent of your Tech Sta
 
 ## System Release Templates
 
+[ATDD Accelerator Template - System Pipeline](https://github.com/optivem/atdd-accelerator-template-system-pipeline)
 [![release-stage-java](https://github.com/optivem/atdd-accelerator-template-system-pipeline/actions/workflows/release-stage-java.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-system-pipeline/actions/workflows/release-stage-java.yml)
