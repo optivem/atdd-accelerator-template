@@ -6,7 +6,7 @@
 - [ATDD Accelerator Template - System Pipeline (Java)](https://github.com/optivem/atdd-accelerator-template-system-pipeline-java) [![release-stage-java](https://github.com/optivem/atdd-accelerator-template-system-pipeline-java/actions/workflows/release-stage-java.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-system-pipeline-java/actions/workflows/release-stage-java.yml)
 
 ## .NET Templates
-- [ATDD Accelerator Template - Monolith (.NET)](https://github.com/optivem/atdd-accelerator-template-monolith-dotnet)
+- [ATDD Accelerator Template - Monolith (.NET)](https://github.com/optivem/atdd-accelerator-template-monolith-dotnet) [![commit-stage-monolith-csharp](https://github.com/optivem/atdd-accelerator-template-monolith-dotnet/actions/workflows/commit-stage-monolith-csharp.yaml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-monolith-dotnet/actions/workflows/commit-stage-monolith-csharp.yaml)
 - [ATDD Accelerator Template - System Test (.NET)](https://github.com/optivem/atdd-accelerator-template-system-test-dotnet)
 - [ATDD Accelerator Template - System Pipeline (.NET)](https://github.com/optivem/atdd-accelerator-template-system-pipeline-dotnet)
 
