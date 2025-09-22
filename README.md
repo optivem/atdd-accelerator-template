@@ -16,4 +16,6 @@ Acceptance Tests are independent of System Architecture, it doesn't matter wheth
 
 ## Release
 
-- [ATDD Accelerator Template - Release](https://github.com/optivem/atdd-accelerator-template-release)
+- [ATDD Accelerator Template - System Pipeline (Java)](https://github.com/optivem/atdd-accelerator-template-system-pipeline-java)
+- [ATDD Accelerator Template - System Pipeline (.NET)](https://github.com/optivem/atdd-accelerator-template-system-pipeline-dotnet)
+- [ATDD Accelerator Template - System Pipeline (TypeScript)](https://github.com/optivem/atdd-accelerator-template-system-pipeline-typescript)
