@@ -9,7 +9,7 @@ _Note: - Acceptance Tests are independent of System Architecture, it doesn't mat
 
 ## System Test Templates
 - [ATDD Accelerator Template - System Test (Java)](https://github.com/optivem/atdd-accelerator-template-system-test-java) [![local-acceptance-stage-java](https://github.com/optivem/atdd-accelerator-template-system-test-java/actions/workflows/local-acceptance-stage-java.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-system-test-java/actions/workflows/local-acceptance-stage-java.yml)
-- [ATDD Accelerator Template - System Test (.NET)](https://github.com/optivem/atdd-accelerator-template-system-test-dotnet) [![local-acceptance-stage-csharp](https://github.com/optivem/atdd-accelerator-template-system-test-dotnet/actions/workflows/local-acceptance-stage-csharp.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-system-test-dotnet/actions/workflows/local-acceptance-stage-csharp.yml)
+- [ATDD Accelerator Template - System Test (.NET)](https://github.com/optivem/atdd-accelerator-template-system-test-dotnet) [![local-acceptance-stage-dotnet](https://github.com/optivem/atdd-accelerator-template-system-test-dotnet/actions/workflows/local-acceptance-stage-dotnet.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-system-test-dotnet/actions/workflows/local-acceptance-stage-dotnet.yml)
 - [ATDD Accelerator Template - System Test (TypeScript)](https://github.com/optivem/atdd-accelerator-template-system-test-typescript)
 
 _Note: The Tech Stack choice of your System Test is independent of your Tech Stack choice of the System._
