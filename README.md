@@ -1,7 +1,7 @@
 # ATDD Accelerator Template
 
 ## Java Templates
-- [ATDD Accelerator Template - Monolith (Java)](https://github.com/optivem/atdd-accelerator-template-monolith-java)
+- [ATDD Accelerator Template - Monolith (Java)](https://github.com/optivem/atdd-accelerator-template-monolith-java) [![commit-stage-monolith-java](https://github.com/optivem/atdd-accelerator-template-monolith-java/actions/workflows/commit-stage-monolith-java.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-monolith-java/actions/workflows/commit-stage-monolith-java.yml)
 - [ATDD Accelerator Template - System Test (Java)](https://github.com/optivem/atdd-accelerator-template-system-test-java)
 - [ATDD Accelerator Template - System Pipeline (Java)](https://github.com/optivem/atdd-accelerator-template-system-pipeline-java)
 
