@@ -3,7 +3,7 @@
 ## Java Templates
 - [ATDD Accelerator Template - Monolith (Java)](https://github.com/optivem/atdd-accelerator-template-monolith-java) [![commit-stage-monolith-java](https://github.com/optivem/atdd-accelerator-template-monolith-java/actions/workflows/commit-stage-monolith-java.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-monolith-java/actions/workflows/commit-stage-monolith-java.yml)
 - [ATDD Accelerator Template - System Test (Java)](https://github.com/optivem/atdd-accelerator-template-system-test-java) [![local-acceptance-stage-java](https://github.com/optivem/atdd-accelerator-template-system-test-java/actions/workflows/local-acceptance-stage-java.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-system-test-java/actions/workflows/local-acceptance-stage-java.yml)
-- [ATDD Accelerator Template - System Pipeline (Java)](https://github.com/optivem/atdd-accelerator-template-system-pipeline-java)
+- [ATDD Accelerator Template - System Pipeline (Java)](https://github.com/optivem/atdd-accelerator-template-system-pipeline-java) [![release-stage-java](https://github.com/optivem/atdd-accelerator-template-system-pipeline-java/actions/workflows/release-stage-java.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-system-pipeline-java/actions/workflows/release-stage-java.yml)
 
 ## .NET Templates
 - [ATDD Accelerator Template - Monolith (.NET)](https://github.com/optivem/atdd-accelerator-template-monolith-dotnet)
