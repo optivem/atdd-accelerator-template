@@ -16,4 +16,4 @@ Acceptance Tests are independent of System Architecture, it doesn't matter wheth
 
 ## Release
 
-- [ATDD Accelerator Template - Release](https://github.com/optivem/atdd-accelerator-release)
+- [ATDD Accelerator Template - Release](https://github.com/optivem/atdd-accelerator-template-release)
