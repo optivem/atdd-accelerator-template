@@ -26,6 +26,8 @@ _Note: - Acceptance Tests are independent of System Architecture, it doesn't mat
 
 [ATDD Accelerator Template - System Test (TypeScript)](https://github.com/optivem/atdd-accelerator-template-system-test-typescript)
 
+[![local-acceptance-stage-typescript](https://github.com/optivem/atdd-accelerator-template-system-test-typescript/actions/workflows/local-acceptance-stage-typescript.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-system-test-typescript/actions/workflows/local-acceptance-stage-typescript.yml)
+
 _Note: The Tech Stack choice of your System Test is independent of your Tech Stack choice of the System._
 
 ## System Release Templates
