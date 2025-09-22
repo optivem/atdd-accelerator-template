@@ -1,5 +1,7 @@
 # ATDD Accelerator Template
 
+[![pages-build-deployment](https://github.com/optivem/atdd-accelerator-template/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/optivem/atdd-accelerator-template/actions/workflows/pages/pages-build-deployment)
+
 # System Templates
 [ATDD Accelerator Template - Monolith (Java)](https://github.com/optivem/atdd-accelerator-template-monolith-java) 
 
