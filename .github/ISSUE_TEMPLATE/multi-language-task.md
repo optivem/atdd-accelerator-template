@@ -1,7 +1,7 @@
 ---
 name: Multi Language Task
 about: Template for tasks that need to be implemented across multiple programming languages
-title: "[ALL]"
+title: ""
 labels: ["multi-language", "task"]
 assignees: "@valentinajemuovic"
 type: issue
