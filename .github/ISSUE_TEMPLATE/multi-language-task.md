@@ -6,6 +6,6 @@ labels: ["multi-language", "task"]
 assignees: ""
 ---
 
-- [ ] Java
-- [ ] .NET
-- [ ] TypeScript
+- [ ] Java (https://github.com/optivem/atdd-accelerator-template-java)
+- [ ] .NET (https://github.com/optivem/atdd-accelerator-template-dotnet)
+- [ ] TypeScript (https://github.com/optivem/atdd-accelerator-template-typescript)
