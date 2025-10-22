@@ -2,11 +2,15 @@
 
 This template was designed for the [ATDD Accelerator Program](https://atdd-accelerator.optivem.com/).
 
-## Templates
+## Starter Templates
 
-- [ATDD Accelerator Template (Java)](https://github.com/optivem/atdd-accelerator-template-java)
-- [ATDD Accelerator Template (.NET)](https://github.com/optivem/atdd-accelerator-template-dotnet)
-- [ATDD Accelerator Template (TypeScript)](https://github.com/optivem/atdd-accelerator-template-typescript)
+- [ATDD Accelerator Template - Java](https://github.com/optivem/atdd-accelerator-template-java)
+- [ATDD Accelerator Template - .NET](https://github.com/optivem/atdd-accelerator-template-dotnet)
+- [ATDD Accelerator Template - TypeScript](https://github.com/optivem/atdd-accelerator-template-typescript)
+
+## Customized Templates
+
+- [ATDD Accelerator Template - Multi Language](https://github.com/optivem/atdd-accelerator-template-multi-lang)
 
 ## License
 
