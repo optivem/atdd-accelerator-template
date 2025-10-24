@@ -11,6 +11,8 @@ This template was designed for the [ATDD Accelerator Program](https://atdd-accel
 ## Customized Templates
 
 - [ATDD Accelerator Template - Multi Language](https://github.com/optivem/atdd-accelerator-template-multi-lang)
+- [ATDD Accelerator Template - Multi Component](https://github.com/optivem/atdd-accelerator-template-multi-comp)
+- [ATDD Accelerator Template - Multi Repository](https://github.com/optivem/atdd-accelerator-template-multi-repo)
 
 ## License
 
